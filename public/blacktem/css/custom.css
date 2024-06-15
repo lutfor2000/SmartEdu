@@ -1,0 +1,7 @@
+.page-item.active .page-link{
+    /* background: #FFAF00 !important; */
+    background: #FFAB00 !important;
+}
+.page-link{
+    background: #00D15B !important;
+}
